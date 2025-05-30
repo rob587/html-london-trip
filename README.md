@@ -1,4 +1,4 @@
-Title
+Viaggio a Londra
 ===
 Riproducete il layout dell'immagine allegata utilizzando i tag che abbiamo visto stamattina aiutandovi con le slide di stamattina.
 Create una nuova cartella per l'esercizio di oggi e collegate subito la repo su github con il nome: html-london-trip,
